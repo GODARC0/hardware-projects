@@ -1,20 +1,27 @@
-# ⚡ Arduino Playground  
+# Hardware Projects
 
-Welcome to my **Arduino Projects Repository** – a place where ideas, wires, sensors, and way too many jumper cables come together.  
-Think of it as my personal lab notebook… but with fewer coffee stains and more working code.  
+A collection of my hardware projects — microcontroller builds, embedded systems, circuits, and anything else that isn't purely software.
 
----
-
-## 🚀 What You’ll Find Here  
-This repo is a growing collection of:  
-- 🤖 **Robots** that (hopefully) follow orders better than I do.  
-- 🌡️ **Sensor Experiments** – from servo motor to motion detection.  
-- 💡 **Automation Hacks** – little scripts that make life easier (or at least more fun).  
-- 🎮 **Fun Builds** – random “can I make this work?” projects.  
-
-Basically, if it runs on an Arduino and makes me say *“oh that’s cool”*, it goes here.  
+Not limited to any one platform (Arduino, ESP32, etc.) — this repo just holds all of it.
 
 ---
 
-## 📂 Repository Structure  
-Each project has its own folder:  
+## Structure
+
+Each project lives in its own folder, named after the project. Inside you'll typically find the source code, and any relevant schematics/notes for that build.
+
+```
+hardware-projects/
+├── Self balancer robot/
+├── evm/
+├── password based lock/
+└── ...more added over time
+```
+
+New projects get added as new top-level folders.
+
+---
+
+## License
+
+MIT
